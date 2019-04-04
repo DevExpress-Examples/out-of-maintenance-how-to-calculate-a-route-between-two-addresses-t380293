@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[MainWindow.xaml](./CS/CalculateRoutesByAddresses/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/CalculateRoutesByAddresses/MainWindow.xaml))**
-* [MainWindow.xaml.cs](./CS/CalculateRoutesByAddresses/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/CalculateRoutesByAddresses/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/CalculateRoutesByAddresses/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/CalculateRoutesByAddresses/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to: Calculate a Route Between Two Addresses
 
